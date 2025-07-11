@@ -1,0 +1,24 @@
+body {
+      
+      padding: 70px;
+    }
+    h1 {
+      color: #2a3de7;
+      text-align: center;
+    }
+    p {
+      font-size: 18px;
+      text-align: center;
+      color: #000;
+    }
+    
+    #mensagem{ /*veio da div no html */
+    text-align: center;
+    white-space: pre-wrap; /*quebra de texto */
+    font-size: 20px;
+    color: #2a3de7;
+    line-height: 1.7; /*espaçamento de altura */
+    margin-top: -25px;
+    font-weight: 200;
+ 
+  }
